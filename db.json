@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": "120sad23cvewr",
+      "title": "Bahay Bugahan",
+      "author": "Wally bayola"
+    },
+    {
+      "id": "s34dcee2",
+      "title": "Bahay Bugahan 3",
+      "author": "Wally bayola 3"
+    },
+    {
+      "id": "120sad23c3sd23vewr",
+      "title": "Bahay Bugahan 2",
+      "author": "Wally bayola 2"
+    },
+    {
+      "id": "asd2312sadasdsc",
+      "title": "Bahay Bugahan seventy",
+      "description": "Sa ilalim ng puting ilaw"
+    },
+    {
+      "id": "asd2312sadasdsc",
+      "title": "Bahay Bugahan seventy",
+      "description": "Sa ilalim ng puting ilaw"
+    },
+    {
+      "id": "s2312sadcasd",
+      "title": "Bahay Bugahan 3",
+      "description": "Sa ilalim ng puting sdadsd"
+    },
+    {
+      "id": "s2312sadcasd",
+      "title": "Bahay Bugahan 3",
+      "description": "Sa ilalim ng puting sdadsd"
+    }
+  ]
+}
